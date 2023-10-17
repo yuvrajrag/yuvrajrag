@@ -1,9 +1,9 @@
-# Hey there, I'm Yuvraj Raghuvanshi- MERN Stack Developer
+# Hey there👋, I'm Yuvraj Raghuvanshi- MERN Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvraj-blue)](https://www.linkedin.com/in/yuvraj-raghuvanshi-7911281b7/)
 [![GitHub](https://img.shields.io/badge/GitHub-yuvrajrag-orange)](https://github.com/yuvrajrag)
 
-### Welcome to my GitHub profile! I'm a passionate MERN (MongoDB, Express.js, NextJs, Node.js) stack developer with a strong interest in building web applications and solving complex problems. Here's a little about me:
+### Welcome to my GitHub profile🚀! I'm a passionate MERN (MongoDB, Express.js, NextJs, Node.js) stack developer with a strong interest in building web applications and solving complex problems. Here's a little about me:
 
 ## About Me
 

@@ -25,7 +25,7 @@
 
 Here are some of the projects I've worked on:
 
-1. **Project Name 1**
+1. **Netflix-Clone**
    - Description: It's clone of netflix.
    - GitHub Repository: [Link to Repo](https://github.com/yuvrajrag/netflix-clone.github.io)
 
